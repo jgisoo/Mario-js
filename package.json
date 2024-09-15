@@ -1,0 +1,12 @@
+{
+  "name": "mario",
+  "version": "1.0.0",
+  "homepage": "https://jgisoo.github.io/Mario-js",
+
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
